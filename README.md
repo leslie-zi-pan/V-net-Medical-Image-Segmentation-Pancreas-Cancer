@@ -14,13 +14,13 @@ Pre-augmented data training results:
 
 Post aumentation training results(elastic and affine): 
 
-![image](https://user-images.githubusercontent.com/43177212/114284639-2345d000-9a49-11eb-9506-df25942c6681.png)
-![image](https://user-images.githubusercontent.com/43177212/114284647-2b9e0b00-9a49-11eb-9ac4-cf3c59611f1c.png)
+![image](https://user-images.githubusercontent.com/43177212/114284733-f2b26600-9a49-11eb-9e08-2d3a44feb261.png)
+![image](https://user-images.githubusercontent.com/43177212/114284736-f47c2980-9a49-11eb-8127-f6aef1d009b8.png)
 
 Hyper-parameter tuning graphs: 
 
-![image](https://user-images.githubusercontent.com/43177212/114284733-f2b26600-9a49-11eb-9e08-2d3a44feb261.png)
-![image](https://user-images.githubusercontent.com/43177212/114284736-f47c2980-9a49-11eb-8127-f6aef1d009b8.png)
+![image](https://user-images.githubusercontent.com/43177212/114284760-12498e80-9a4a-11eb-9e10-7ca372613573.png)
+![image](https://user-images.githubusercontent.com/43177212/114284762-14abe880-9a4a-11eb-8758-47511b858dc0.png)
 
 Example Patch based training results:
 
