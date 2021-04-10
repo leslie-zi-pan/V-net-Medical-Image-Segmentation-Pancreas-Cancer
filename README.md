@@ -12,7 +12,7 @@ Pre-augmented data training results:
 ![image](https://user-images.githubusercontent.com/43177212/114284709-ca2a6c00-9a49-11eb-80c8-ba952d56ba77.png)
 
 
-Post aumentation training results(elastic and affine): 
+Post augmentation training results(elastic and affine): 
 
 ![image](https://user-images.githubusercontent.com/43177212/114284733-f2b26600-9a49-11eb-9e08-2d3a44feb261.png)
 ![image](https://user-images.githubusercontent.com/43177212/114284736-f47c2980-9a49-11eb-8127-f6aef1d009b8.png)
