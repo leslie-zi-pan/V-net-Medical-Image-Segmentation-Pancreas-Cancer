@@ -8,8 +8,9 @@ Trained up to ~340 Epochs.
 
 Pre-augmented data training results: 
 
-![image](https://user-images.githubusercontent.com/43177212/114284629-19bc6800-9a49-11eb-96f9-5bec1265bacd.png)
-![image](https://user-images.githubusercontent.com/43177212/114284620-09a48880-9a49-11eb-8cdd-9286d28bcbea.png)
+![image](https://user-images.githubusercontent.com/43177212/114284708-c860a880-9a49-11eb-8ff0-969e2de351f5.png)
+![image](https://user-images.githubusercontent.com/43177212/114284709-ca2a6c00-9a49-11eb-80c8-ba952d56ba77.png)
+
 
 Post aumentation training results(elastic and affine): 
 
