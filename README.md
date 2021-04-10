@@ -7,6 +7,7 @@ The data consisted of 281 training images, with its respective labels, and 129 t
 Trained up to ~340 Epochs. 
 
 Pre-augmented data training results: 
+![image](https://user-images.githubusercontent.com/43177212/114284620-09a48880-9a49-11eb-8cdd-9286d28bcbea.png)
 ![image](https://user-images.githubusercontent.com/43177212/114284513-63f11980-9a48-11eb-96c8-44d2af3fd7b7.png)
 ![image](https://user-images.githubusercontent.com/43177212/114284515-65224680-9a48-11eb-8b8e-9d24badd5f46.png)
 
