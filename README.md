@@ -19,8 +19,8 @@ Post aumentation training results(elastic and affine):
 
 Hyper-parameter tuning graphs: 
 
-![image](https://user-images.githubusercontent.com/43177212/114284649-32c51900-9a49-11eb-942c-bdf40b715514.png)
-![image](https://user-images.githubusercontent.com/43177212/114284653-36f13680-9a49-11eb-834d-693cecf6798c.png)
+![image](https://user-images.githubusercontent.com/43177212/114284733-f2b26600-9a49-11eb-9e08-2d3a44feb261.png)
+![image](https://user-images.githubusercontent.com/43177212/114284736-f47c2980-9a49-11eb-8127-f6aef1d009b8.png)
 
 Example Patch based training results:
 
